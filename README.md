@@ -83,7 +83,7 @@
 ## Applications web (02)
 | Site web | Description |
 | ----------------------- | ------------------ |
-|[ChapChap](https://chapchap.tg)|Livraison rapide et sécurisée pour les professionnels|
+| [Chapchap](https://chapchap.tg) | chapchap est une application web de livraisons de plis et colis a la demande pour les professionnels au TOGO |
 |[Docmava](https://www.docmava.tg/) | Docmava permet aux médecins et aux cabinets de mieux gérer les rendez-vous de consultation en réduisant considérablement les rendez-vousnon honorés. |
 
 ## Sites e-commerce (09)
