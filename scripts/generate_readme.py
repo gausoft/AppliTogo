@@ -114,7 +114,7 @@ def fetch_from_supabase() -> list[dict]:
     key = os.environ["SUPABASE_ANON_KEY"]
     select = (
         "name,slug,icon,cover,description,store_links,tech_links,"
-        "platforms,featured,launched_at,"
+        "platforms,featured,featured_order,launched_at,"
         "category:categories(name),"
         "company:companies(name,logo,city)"
     )
@@ -157,16 +157,17 @@ def normalize(rows: list[dict]) -> list[dict]:
         if isinstance(co, dict) and not co.get("name"):
             co = None
         out.append({
-            "name":        r.get("name"),
-            "slug":        r.get("slug"),
-            "icon":        r.get("icon") or "",
-            "description": (r.get("description") or "").strip(),
-            "platforms":   r.get("platforms") or [],
-            "featured":    bool(r.get("featured")),
-            "store_links": r.get("store_links") or r.get("storeLinks") or {},
-            "tech_links":  r.get("tech_links") or r.get("techLinks") or {},
-            "category":    cat or "Autres",
-            "company":     co,
+            "name":           r.get("name"),
+            "slug":           r.get("slug"),
+            "icon":           r.get("icon") or "",
+            "description":    (r.get("description") or "").strip(),
+            "platforms":      r.get("platforms") or [],
+            "featured":       bool(r.get("featured")),
+            "featured_order": r.get("featured_order"),
+            "store_links":    r.get("store_links") or r.get("storeLinks") or {},
+            "tech_links":     r.get("tech_links") or r.get("techLinks") or {},
+            "category":       cat or "Autres",
+            "company":        co,
         })
     return out
 
@@ -224,13 +225,12 @@ def render(apps: list[dict]) -> str:
 
     total = len(apps)
 
-    # Featured apps : ordre explicite (slugs prioritaires en tête), reste alpha.
-    FEATURED_ORDER = ["gozem", "moov-money-togo", "yas-togo", "solimi"]
+    # Featured apps : triées par featured_order ASC (NULL = en queue alpha).
     def _featured_key(a):
-        try:
-            return (0, FEATURED_ORDER.index(a["slug"]))
-        except ValueError:
-            return (1, a["name"].lower())
+        order = a.get("featured_order")
+        if order is not None:
+            return (0, order, a["name"].lower())
+        return (1, 0, a["name"].lower())
     featured = sorted([a for a in apps if a["featured"]], key=_featured_key)
 
     L: list[str] = []
