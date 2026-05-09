@@ -4,14 +4,16 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
+![Apps](https://img.shields.io/badge/apps-35-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-35-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-14-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
 </div>
 
 ## À la une
 
 <table><tr>
-<td align="center" width="160"><a href="https://www.okpabac.com/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/okpabac.jpeg" width="96" alt="OkpaBac"/></a><br/><sub>Edtech</sub></td>
-<td align="center" width="160"><a href="https://moov-africa.tg/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/moovmoney-tg.png" width="96" alt="Moov Money Togo"/></a><br/><sub>Fintech</sub></td>
 <td align="center" width="160"><a href="https://gozem.co/tg/fr/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/gozem.jpeg" width="96" alt="Gozem (SuperApp)"/></a><br/><sub>Mobilité</sub></td>
+<td align="center" width="160"><a href="https://moov-africa.tg/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/moovmoney-tg.png" width="96" alt="Moov Money Togo"/></a><br/><sub>Fintech</sub></td>
+<td align="center" width="160"><a href="https://www.okpabac.com/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/okpabac.jpeg" width="96" alt="OkpaBac"/></a><br/><sub>Edtech</sub></td>
 </tr></table>
 
 ## Applications mobiles
