@@ -126,13 +126,19 @@ def fetch_from_supabase() -> list[dict]:
         "order": "featured.desc,name.asc",
     })
     headers = {"apikey": key}
-    # Legacy anon keys are JWTs (start with "eyJ") and need a Bearer header.
-    # New publishable keys (sb_publishable_...) only need the apikey header.
     if key.startswith("eyJ"):
         headers["Authorization"] = f"Bearer {key}"
-    req = urllib.request.Request(f"{base}/rest/v1/resources?{qs}", headers=headers)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    url = f"{base}/rest/v1/resources?{qs}"
+    print(f"GET {url}", file=sys.stderr)
+    print(f"key prefix: {key[:20]}... (len={len(key)})", file=sys.stderr)
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"HTTP {e.code} {e.reason}\n{body}", file=sys.stderr)
+        raise
 
 
 def load_local(path: str) -> list[dict]:
