@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
@@ -24,14 +25,19 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: python scripts/generate_readme.py
 
-      - name: Commit & push if changed
-        run: |
-          if git diff --quiet README.md; then
-            echo "README is up to date."
-            exit 0
-          fi
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore(readme): sync from africans_bc"
-          git push
+      - name: Open / update Pull Request if README changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(readme): sync from africans_bc"
+          title: "chore(readme): sync from africans_bc"
+          body: |
+            🤖 Mise à jour automatique du README à partir de la base **africans_bc**.
+
+            - Source : `scripts/generate_readme.py`
+            - Déclenché par : `${{ github.event_name }}`
+            - Run : ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            Mergez si le diff vous convient.
+          branch: bot/sync-readme
+          delete-branch: true
+          add-paths: README.md
