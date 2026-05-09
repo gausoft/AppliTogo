@@ -223,7 +223,15 @@ def render(apps: list[dict]) -> str:
             plat_count[p] += 1
 
     total = len(apps)
-    featured = [a for a in apps if a["featured"]]
+
+    # Featured apps : ordre explicite (slugs prioritaires en tête), reste alpha.
+    FEATURED_ORDER = ["gozem", "moov-money-togo", "yas-togo", "solimi"]
+    def _featured_key(a):
+        try:
+            return (0, FEATURED_ORDER.index(a["slug"]))
+        except ValueError:
+            return (1, a["name"].lower())
+    featured = sorted([a for a in apps if a["featured"]], key=_featured_key)
 
     L: list[str] = []
 
