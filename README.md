@@ -4,7 +4,7 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
-![Apps](https://img.shields.io/badge/apps-36-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-36-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-15-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/apps-37-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-37-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-16-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -15,16 +15,18 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 <td align="center" width="160"><a href="https://moov-africa.tg/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/moovmoney-tg.png" width="96" alt="Moov Money Togo"/></a><br/><sub>Fintech</sub></td>
 <td align="center" width="160"><a href="https://www.okpabac.com/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/okpabac.jpeg" width="96" alt="OkpaBac"/></a><br/><sub>Edtech</sub></td>
 <td align="center" width="160"><a href="https://solimi.co"><img src="https://play-lh.googleusercontent.com/-hw-rNSMXf976HBiseC9L5_nZQ0VbBhjyL6fgn-d1dbWLnWfXONAHIOMM2hV9cJZcIGh" width="96" alt="Solimi"/></a><br/><sub>Fintech</sub></td>
+<td align="center" width="160"><a href="https://www.axian-telecom.com/"><img src="https://play-lh.googleusercontent.com/pyyeaHsaCVT4N37XoA1uaANVtLdxQcq0QQotrsOFMLTyLBmozpGigQvE1ZvlxddL0DkbMUcUrStrY3Zm_jsedXM" width="96" alt="Yas Togo"/></a><br/><sub>Fintech</sub></td>
 </tr></table>
 
 ## Applications mobiles
 
-### 💳 Fintech & mobile money <sub>(8)</sub>
+### 💳 Fintech & mobile money <sub>(9)</sub>
 
 |     | Application |
 | :-: | :--- |
 | <img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/moovmoney-tg.png" width="48" alt=""/> | **Moov Money Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Une application de Moov Africa Togo permettant de gérer et effectuer des transactions financières telles que le transfert d'argent, le paiement de factures, et la gestion de compte, avec un nouveau…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.tlc.moovmoney.tg.uat&hl=fr) · [App Store](https://apps.apple.com/us/app/moov-money-togo/id6504198318) · [Site](https://moov-africa.tg/)</sub> |
 | <img src="https://play-lh.googleusercontent.com/-hw-rNSMXf976HBiseC9L5_nZQ0VbBhjyL6fgn-d1dbWLnWfXONAHIOMM2hV9cJZcIGh" width="48" alt=""/> | **Solimi**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>SOLIMI est l’application financière idéale pour gérer votre argent en toute simplicité et sécurité. Grâce à notre solution innovante, vous pouvez :<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.co.solimi) · [App Store](https://apps.apple.com/fr/app/solimi/id6745825354) · [Site](https://solimi.co)</sub> |
+| <img src="https://play-lh.googleusercontent.com/pyyeaHsaCVT4N37XoA1uaANVtLdxQcq0QQotrsOFMLTyLBmozpGigQvE1ZvlxddL0DkbMUcUrStrY3Zm_jsedXM" width="48" alt=""/> | **Yas Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Gérez votre mobile, internet, recharge et mobile money au Togo en une seule app ! Yas simplifie vos services telecom en Afrique avec des offres exclusives, transfert d'argent instantané et accès gr…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.yas.selfcare.app) · [App Store](https://apps.apple.com/fr/app/yas-app-recharge-et-internet/id6743745301) · [Site](https://www.axian-telecom.com/)</sub> |
 |  | **Bindoo Mobile**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>L'application mobile Bindoo vous permet de profiter des services offerts par vos Microfinances dans le confort de votre appareil mobile.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.mediasoft.bindoomobile)</sub> |
 | <img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/e-poste-tg.webp" width="48" alt=""/> | **E-Poste Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>C'est une application de services bancaires et de paiement mobile qui permet de gérer des comptes postaux, effectuer des transferts d'argent, et payer des factures en ligne.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.laposte.eposte&hl=fr) · [App Store](https://apps.apple.com/gr/app/e-poste/id1552413881)</sub> |
 |  | **Mayo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Mayo est une application conçue pour faciliter la gestion financière personnelle. Elle propose des outils pour suivre vos finances, organiser vos dépenses et planifier vos objectifs, tout en intégr…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.mayocustomer.app) · [Site](https://mayooapp.com/)</sub> |
@@ -134,7 +136,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Catégorie | Apps |
 | :--- | :-: |
-| 💳 Fintech & mobile money | 8 |
+| 💳 Fintech & mobile money | 9 |
 | 🛵 Mobilité & transport | 3 |
 | 🛍️ E-commerce & marketplaces | 6 |
 | 🩺 Healthtech | 4 |
@@ -148,8 +150,8 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Plateforme | Apps |
 | :--- | :-: |
-| Android | 36 |
-| iOS | 15 |
+| Android | 37 |
+| iOS | 16 |
 | Web | 2 |
 
 ## Contribuer
