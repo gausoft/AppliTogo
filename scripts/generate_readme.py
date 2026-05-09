@@ -367,6 +367,49 @@ def render(apps: list[dict]) -> str:
 # Main
 # ---------------------------------------------------------------------------
 
+# Sanity thresholds — fail fast plutôt que de publier un README cassé.
+MIN_APPS_HARD = 10            # en dessous: erreur fatale
+MIN_APPS_WARN = 20            # en dessous: warning
+MIN_FEATURED_HARD = 1         # 0 featured = config probablement HS
+EXPECTED_FEATURED_SLUGS = ["gozem", "moov-money-togo", "yas-togo", "solimi"]
+
+
+def sanity_check(apps: list[dict]) -> None:
+    """Stops the workflow if the dataset looks broken. Prints to stderr so
+    GitHub Actions surfaces it in the run summary + owner email."""
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    n = len(apps)
+    if n < MIN_APPS_HARD:
+        errors.append(f"only {n} apps fetched (< {MIN_APPS_HARD}). Supabase filter or auth probably broken.")
+    elif n < MIN_APPS_WARN:
+        warnings.append(f"only {n} apps fetched (< {MIN_APPS_WARN}). Worth investigating.")
+
+    n_featured = sum(1 for a in apps if a["featured"])
+    if n_featured < MIN_FEATURED_HARD:
+        errors.append(f"no featured apps ({n_featured}). The 'À la une' section will be missing.")
+
+    slugs = {a["slug"] for a in apps}
+    missing = [s for s in EXPECTED_FEATURED_SLUGS if s not in slugs]
+    if missing:
+        warnings.append(
+            f"expected featured slugs not in dataset: {missing}. "
+            "They may have been renamed, unpublished, or unapproved in africans_bc."
+        )
+
+    n_missing_icon = sum(1 for a in apps if not a["icon"])
+    if n_missing_icon > n // 4:
+        warnings.append(f"{n_missing_icon}/{n} apps without icon. CDN URLs may have rotted.")
+
+    for w in warnings:
+        print(f"::warning::sanity: {w}", file=sys.stderr)
+    for e in errors:
+        print(f"::error::sanity: {e}", file=sys.stderr)
+    if errors:
+        raise SystemExit(2)
+
+
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--json", help="Path to a local resources.json (dev)")
@@ -381,7 +424,9 @@ def main() -> int:
         print("error: pass --json PATH or set SUPABASE_URL + SUPABASE_ANON_KEY", file=sys.stderr)
         return 2
 
-    md = render(normalize(rows))
+    apps = normalize(rows)
+    sanity_check(apps)
+    md = render(apps)
 
     if args.stdout:
         sys.stdout.write(md)
