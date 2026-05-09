@@ -4,7 +4,7 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
-![Apps](https://img.shields.io/badge/apps-37-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-37-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-16-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/apps-38-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-38-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-17-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -19,7 +19,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 ## Applications mobiles
 
-### 💳 Fintech & mobile money <sub>(9)</sub>
+### 💳 Fintech & mobile money <sub>(10)</sub>
 
 |     | Application |
 | :-: | :--- |
@@ -30,6 +30,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | <img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/e-poste-tg.webp" width="48" alt=""/> | **E-Poste Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>C'est une application de services bancaires et de paiement mobile qui permet de gérer des comptes postaux, effectuer des transferts d'argent, et payer des factures en ligne.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.laposte.eposte&hl=fr) · [App Store](https://apps.apple.com/gr/app/e-poste/id1552413881)</sub> |
 |  | **Mayo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Mayo est une application conçue pour faciliter la gestion financière personnelle. Elle propose des outils pour suivre vos finances, organiser vos dépenses et planifier vos objectifs, tout en intégr…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.mayocustomer.app) · [Site](https://mayooapp.com/)</sub> |
 |  | **Melinet_tg**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Accès aux offres des opérateurs télécoms togolais via codes USSD simplifiés.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.coleta.melinettg)</sub> |
+| <img src="https://play-lh.googleusercontent.com/dUgVuWILdxJ0s_gfZRthp9_pfQHFhp8XYsCcbPr4xfpHBBcjBoPi9pOKnOK6lvwjOao" width="48" alt=""/> | **Mixx Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Gérez vos finances avec Mixx by Yas.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.togocom.tmoney) · [App Store](https://apps.apple.com/fr/app/mixx-togo/id6443914936) · [Site](https://yas.tg)</sub> |
 |  | **PocketServices**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>PocketServices est un outil innovant simplifiant l'utilisation des codes USSD dans les domaines de transfert d'argent Moov et Tmoney, payement marchand, payement de factures, souscription aux forfa…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.gant.pocketservices)</sub> |
 | <img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/zepargn.png" width="48" alt=""/> | **Zepargn**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Zepargn est une application de gestion de l'épargne qui aide les utilisateurs à atteindre leurs objectifs financiers grâce à l'automatisation et au suivi des progrès.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.digitalelevate.zepargnmobileapp) · [App Store](https://apps.apple.com/fr/app/zepargn/id6474701827?l=en-GB) · [Site](https://zepargn.com/)</sub> |
 
@@ -135,7 +136,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Catégorie | Apps |
 | :--- | :-: |
-| 💳 Fintech & mobile money | 9 |
+| 💳 Fintech & mobile money | 10 |
 | 🛵 Mobilité & transport | 3 |
 | 🛍️ E-commerce & marketplaces | 6 |
 | 🩺 Healthtech | 4 |
@@ -149,8 +150,8 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Plateforme | Apps |
 | :--- | :-: |
-| Android | 37 |
-| iOS | 16 |
+| Android | 38 |
+| iOS | 17 |
 | Web | 2 |
 
 ## Contribuer
