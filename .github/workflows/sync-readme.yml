@@ -37,14 +37,12 @@ jobs:
             - Source : `scripts/generate_readme.py`
             - Déclenché par : `${{ github.event_name }}`
             - Run : ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-            Auto-merge activé — la PR fusionne dès que les checks passent.
           branch: bot/sync-readme
           delete-branch: true
           add-paths: README.md
 
-      - name: Enable auto-merge
+      - name: Merge PR
         if: steps.cpr.outputs.pull-request-number != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh pr merge --squash --auto "${{ steps.cpr.outputs.pull-request-number }}"
+        run: gh pr merge --squash --delete-branch "${{ steps.cpr.outputs.pull-request-number }}"
