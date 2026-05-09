@@ -125,10 +125,12 @@ def fetch_from_supabase() -> list[dict]:
         "is_approved": "eq.true",
         "order": "featured.desc,name.asc",
     })
-    req = urllib.request.Request(
-        f"{base}/rest/v1/resources?{qs}",
-        headers={"apikey": key, "Authorization": f"Bearer {key}"},
-    )
+    headers = {"apikey": key}
+    # Legacy anon keys are JWTs (start with "eyJ") and need a Bearer header.
+    # New publishable keys (sb_publishable_...) only need the apikey header.
+    if key.startswith("eyJ"):
+        headers["Authorization"] = f"Bearer {key}"
+    req = urllib.request.Request(f"{base}/rest/v1/resources?{qs}", headers=headers)
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)
 
