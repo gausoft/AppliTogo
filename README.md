@@ -32,6 +32,13 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | <img src="https://play-lh.googleusercontent.com/TUL8m7vzSNYS16RHBW3Oow4ZAfuShWEMZKI9CnuOHKpetIVhbgpZgjgqVmDoVfX7QVs" width="48" alt=""/> | **PocketServices**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>PocketServices est un outil innovant simplifiant l'utilisation des codes USSD dans les domaines de transfert d'argent Moov et Tmoney, payement marchand, payement de factures, souscription aux forfa…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.gant.pocketservices)</sub> |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/68/13/69681310-0f3a-294f-c439-0ecfb0c8cc5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" alt=""/> | **Zepargn**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Zepargn est une application de gestion de l'épargne qui aide les utilisateurs à atteindre leurs objectifs financiers grâce à l'automatisation et au suivi des progrès.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.digitalelevate.zepargnmobileapp) · [App Store](https://apps.apple.com/fr/app/zepargn/id6474701827?l=en-GB) · [Site](https://zepargn.com/)</sub> |
 
+### 📶 Telecom & opérateurs <sub>(2)</sub>
+
+|     | Application |
+| :-: | :--- |
+| <img src="https://play-lh.googleusercontent.com/pyyeaHsaCVT4N37XoA1uaANVtLdxQcq0QQotrsOFMLTyLBmozpGigQvE1ZvlxddL0DkbMUcUrStrY3Zm_jsedXM" width="48" alt=""/> | **Yas Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Gérez votre mobile, internet, recharge et mobile money au Togo en une seule app ! Yas simplifie vos services telecom en Afrique avec des offres exclusives, transfert d'argent instantané et accès gr…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.yas.selfcare.app) · [App Store](https://apps.apple.com/fr/app/yas-app-recharge-et-internet/id6743745301) · [Site](https://yas.tg)</sub> |
+| <img src="https://play-lh.googleusercontent.com/dUgVuWILdxJ0s_gfZRthp9_pfQHFhp8XYsCcbPr4xfpHBBcjBoPi9pOKnOK6lvwjOao" width="48" alt=""/> | **Mixx Togo**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Gérez vos finances avec Mixx by Yas.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.togocom.tmoney) · [App Store](https://apps.apple.com/fr/app/mixx-togo/id6443914936) · [Site](https://yas.tg)</sub> |
+
 ### 🛵 Mobilité & transport <sub>(3)</sub>
 
 |     | Application |
@@ -135,6 +142,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | Catégorie | Apps |
 | :--- | :-: |
 | 💳 Fintech & mobile money | 8 |
+| 📶 Telecom & opérateurs | 2 |
 | 🛵 Mobilité & transport | 3 |
 | 🛍️ E-commerce & marketplaces | 6 |
 | 🩺 Healthtech | 4 |
