@@ -91,6 +91,7 @@ ECOMMERCE = [
 
 CATEGORIES = {
     "Fintech":    ("💳", "Fintech & mobile money"),
+    "Telecom":    ("📶", "Telecom & opérateurs"),
     "Mobilité":   ("🛵", "Mobilité & transport"),
     "E-Commerce": ("🛍️", "E-commerce & marketplaces"),
     "Healthtech": ("🩺", "Healthtech"),
