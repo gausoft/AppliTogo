@@ -13,9 +13,8 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 <table><tr>
 <td align="center" width="160"><a href="https://gozem.co/tg/fr/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/gozem.jpeg" width="96" alt="Gozem (SuperApp)"/></a><br/><sub>Mobilité</sub></td>
 <td align="center" width="160"><a href="https://moov-africa.tg/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/moovmoney-tg.png" width="96" alt="Moov Money Togo"/></a><br/><sub>Fintech</sub></td>
-<td align="center" width="160"><a href="https://www.okpabac.com/"><img src="https://lnrtojzfvzpjztqkprsy.supabase.co/storage/v1/object/public/assets/logos/okpabac.jpeg" width="96" alt="OkpaBac"/></a><br/><sub>Edtech</sub></td>
-<td align="center" width="160"><a href="https://solimi.co"><img src="https://play-lh.googleusercontent.com/-hw-rNSMXf976HBiseC9L5_nZQ0VbBhjyL6fgn-d1dbWLnWfXONAHIOMM2hV9cJZcIGh" width="96" alt="Solimi"/></a><br/><sub>Fintech</sub></td>
 <td align="center" width="160"><a href="https://yas.tg"><img src="https://play-lh.googleusercontent.com/pyyeaHsaCVT4N37XoA1uaANVtLdxQcq0QQotrsOFMLTyLBmozpGigQvE1ZvlxddL0DkbMUcUrStrY3Zm_jsedXM" width="96" alt="Yas Togo"/></a><br/><sub>Fintech</sub></td>
+<td align="center" width="160"><a href="https://solimi.co"><img src="https://play-lh.googleusercontent.com/-hw-rNSMXf976HBiseC9L5_nZQ0VbBhjyL6fgn-d1dbWLnWfXONAHIOMM2hV9cJZcIGh" width="96" alt="Solimi"/></a><br/><sub>Fintech</sub></td>
 </tr></table>
 
 ## Applications mobiles
