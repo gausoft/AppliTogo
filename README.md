@@ -4,7 +4,7 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
-![Apps](https://img.shields.io/badge/apps-39-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-39-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-18-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/apps-41-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-41-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-18-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -83,11 +83,13 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 |  | **Togo Tribune**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Application d'actualité togolaise.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.actus.togotribune)</sub> |
 |  | **TVT Live**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Restez connecté avec TVT Live pour l'information togolaise en continue<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.tvt.tvtlive) · [Site](https://www.youtube.com/channel/UCHRTO7BRAb3GGwQEUxpOUfg/videos)</sub> |
 
-### 🍽️ FoodTech <sub>(1)</sub>
+### 🍽️ FoodTech <sub>(3)</sub>
 
 |     | Application |
 | :-: | :--- |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/f4/49/f4f449c0-e246-9295-85cd-77679da36bd2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" width="48" alt=""/> | **Kaba**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Kaba est une application de livraison de menus restaurants à la demande, au Togo.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.tmye.kaba.brave.one) · [App Store](https://apps.apple.com/us/app/kaba/id1513025430) · [Site](https://kaba-delivery.com/)</sub> |
+| <img src="https://play-lh.googleusercontent.com/TjRXuLU3D24hOYxoArH5pbPL60SqaqMBZTHKWb_DFrFtGZcXxo0AwR2RW3JgWnBmqqU-laFDXNL1pbiKa-qatw" width="48" alt=""/> | **Orga**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Orga : Commandez, payez et réservez sans attendre<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.africa.orga) · [Site](https://www.orga-africa.com)</sub> |
+| <img src="https://play-lh.googleusercontent.com/cpNP29kukUVmJ9OBWSUvf6vL_6XpsaLgSARAycIWIElisgSTC_Ql-FA-Dn3BBRAqitOFx0yMeEm1AxlrrmLQGQ" width="48" alt=""/> | **Orga pro**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Orga Pro :  Le POS nouvelle génération pour restaurants et points de vente en Afrique .<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.africa.orga_pro) · [Site](https://www.orga-africa.com)</sub> |
 
 ### 🏃 Sport & fitness <sub>(1)</sub>
 
@@ -154,7 +156,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | 🩺 Healthtech | 4 |
 | 📚 Edtech | 2 |
 | 📺 Médias & information | 4 |
-| 🍽️ FoodTech | 1 |
+| 🍽️ FoodTech | 3 |
 | 🏃 Sport & fitness | 1 |
 | 🌱 Agritech | 2 |
 | 🏛️ GovTech | 1 |
@@ -163,7 +165,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Plateforme | Apps |
 | :--- | :-: |
-| Android | 39 |
+| Android | 41 |
 | iOS | 18 |
 | Web | 2 |
 
