@@ -4,7 +4,7 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
-![Apps](https://img.shields.io/badge/apps-38-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-38-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-17-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/apps-39-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-39-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-18-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -89,6 +89,12 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | :-: | :--- |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/f4/49/f4f449c0-e246-9295-85cd-77679da36bd2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" width="48" alt=""/> | **Kaba**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Kaba est une application de livraison de menus restaurants à la demande, au Togo.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=tg.tmye.kaba.brave.one) · [App Store](https://apps.apple.com/us/app/kaba/id1513025430) · [Site](https://kaba-delivery.com/)</sub> |
 
+### 🏃 Sport & fitness <sub>(1)</sub>
+
+|     | Application |
+| :-: | :--- |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/f4/ff/55f4ffaf-6c51-7094-9f55-1089dbf8aa0e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg" width="48" alt=""/> | **Alonzi : Sports Teammate**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Tired of working out alone? Looking for a teammate to run, hit the gym, or play tennis near you? Alonzi is the app that connects you with compatible workout teammates around you.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.prechile.alonzi) · [App Store](https://apps.apple.com/us/app/alonzi/id6762818832) · [Site](https://alonzi-sport.com)</sub> |
+
 ### 🌱 Agritech <sub>(2)</sub>
 
 |     | Application |
@@ -149,6 +155,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | 📚 Edtech | 2 |
 | 📺 Médias & information | 4 |
 | 🍽️ FoodTech | 1 |
+| 🏃 Sport & fitness | 1 |
 | 🌱 Agritech | 2 |
 | 🏛️ GovTech | 1 |
 | 🔗 Blockchain | 1 |
@@ -156,8 +163,8 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Plateforme | Apps |
 | :--- | :-: |
-| Android | 38 |
-| iOS | 17 |
+| Android | 39 |
+| iOS | 18 |
 | Web | 2 |
 
 ## Contribuer
