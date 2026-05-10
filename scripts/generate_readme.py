@@ -98,6 +98,7 @@ CATEGORIES = {
     "Edtech":     ("📚", "Edtech"),
     "MediaTech":  ("📺", "Médias & information"),
     "FoodTech":   ("🍽️", "FoodTech"),
+    "Sport":      ("🏃", "Sport & fitness"),
     "Agritech":   ("🌱", "Agritech"),
     "GovTech":    ("🏛️", "GovTech"),
     "Blockchain": ("🔗", "Blockchain"),
