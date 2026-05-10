@@ -4,7 +4,7 @@
 
 Liste communautaire des applications mobiles, sites web et plateformes en ligne conçus au Togo.
 
-![Apps](https://img.shields.io/badge/apps-41-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-41-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-18-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/apps-42-0EA5E9?style=flat-square) ![Android](https://img.shields.io/badge/Android-42-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-18-000000?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/web-10-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -47,7 +47,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | <img src="https://play-lh.googleusercontent.com/yz4nmbBBY3wHLJIjobP9spH3CwwTPO6vY7T-lUsx3ccMJ6cEQzFftunOwEuJp6cKQPk8" width="48" alt=""/> | **BKG Speed (Klic)**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Une application de réservation de transport qui permet de réserver des trajets avec différents niveaux de confort, de la prise en charge immédiate ou planifiée.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.klic.client&hl=fr) · [App Store](https://apps.apple.com/us/app/bkg-speed-taxi-livraison/id6450218925) · [Site](https://bkgspeed.com/)</sub> |
 | <img src="https://play-lh.googleusercontent.com/JokfQ-9Yczz77Jze-W3XD7EGwnGrDZ2qBqNRgsUdFDo5aGhjDxWuEgk2qedDIKvR1g" width="48" alt=""/> | **Gozem Champion**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>L’application pour les Champions Gozem<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.gozem.provider) · [Site](https://gozem.co/tg/fr/)</sub> |
 
-### 🛍️ E-commerce & marketplaces <sub>(6)</sub>
+### 🛍️ E-commerce & marketplaces <sub>(7)</sub>
 
 |     | Application |
 | :-: | :--- |
@@ -55,6 +55,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 |  | **e-vendeur**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Grâce à l'application E-vendeur, partagez et vendez facilement n'importe où et n'importe quand. Générez plus de revenus et répondez à la demande depuis votre smartphone.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.dexcorp.evendeur)</sub> |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/22/c8/9f22c84f-9416-6fd5-fa66-50ea3a9654ed/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="48" alt=""/> | **Gozem Marchand**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)<br/>Gozem Marchand est la Super App pour les entreprises qui leur fournit une suite de services pour repondre a leurs besoins de tous les jours.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.gozem.merchant) · [App Store](https://apps.apple.com/us/app/gozem-marchand/id1571944859) · [Site](https://gozem.co/tg/fr/)</sub> |
 |  | **Kiya**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Application d'épicerie en ligne (produits frais, légumes, viandes, poissons).<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.kiyakou.app)</sub> |
+| <img src="https://play-lh.googleusercontent.com/3gq9Iy1QMFqTm9JgkJki8ZAGM3YvVTn6IzM6mz3Em0WTQRCJlGc-KfMfNuyO6yloxRJ-VGAjYOpkIUcCSHvbfA" width="48" alt=""/> | **Market•Up**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Market•Up : Achetez, vendez et commandez vos produits et plats préférés en un seul endroit, rapidement et facilement.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.marketup.app) · [Site](https://market-up-sigma.vercel.app)</sub> |
 |  | **Nicelia**<br/>![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Marketplace permettant de parcourir et d'acheter des produits de différentes marques.<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.togo.nicelia&hl=fr) · [Site](https://nicelia.com/)</sub> |
 |  | **Odon Marchand**<br/>![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br/>Odon est une application qui facilite le processus d'achat de vente et de livraison de produits alimentaire et autres. L'objectif est de faciliter la recherche pour les clients d'une vente de produ…<br/><sub>[Play Store](https://play.google.com/store/apps/details?id=com.odon.marchand) · [Site](https://ple.oogle.com)</sub> |
 
@@ -152,7 +153,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 | 💳 Fintech & mobile money | 8 |
 | 📶 Telecom & opérateurs | 2 |
 | 🛵 Mobilité & transport | 3 |
-| 🛍️ E-commerce & marketplaces | 6 |
+| 🛍️ E-commerce & marketplaces | 7 |
 | 🩺 Healthtech | 4 |
 | 📚 Edtech | 2 |
 | 📺 Médias & information | 4 |
@@ -165,7 +166,7 @@ Liste communautaire des applications mobiles, sites web et plateformes en ligne 
 
 | Plateforme | Apps |
 | :--- | :-: |
-| Android | 41 |
+| Android | 42 |
 | iOS | 18 |
 | Web | 2 |
 
